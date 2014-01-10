@@ -115,5 +115,13 @@ compose_email(['cpt@thelivingpearl.com','',''],
               [['some text goes here...\n',0]],
               '');
               
+#compose_email can take the following arguments: 
+#	1. to recipients (separated by a comma)
+#	2. cc recipients (separated by a comma)
+#	3. bcc recipients (separated by a comma)
+#	4. subject
+#	5. a list with message and mode (plain txt or html)
+#	6. files to be attached
+
 
 
