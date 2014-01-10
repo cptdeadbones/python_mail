@@ -1,4 +1,6 @@
 python_mail
 ===========
 
-Send emails with Python
+This is a simple script on how to send emails from Python. 
+
+[CptDeadBones](http://www.thelivingpearl.com)
